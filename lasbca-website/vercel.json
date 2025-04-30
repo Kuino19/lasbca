@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/", "destination": "/lasbca-website/index.html" }
-  ]
-}
-
